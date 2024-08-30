@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">todotwo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">welcome to</string>
+    <string name="company">Company Name</string>
+    <string name="username_e_mail">Username / E-mail</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="signin">Sign in</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="signup">Sign up</string>
+    <string name="sign_up2">Sign up</string>
+    <string name="todoapp">todoapp</string>
+    <string name="console">console</string>
+    <string name="todo">todo</string>
+    <string name="default_web_Id">1003275499247-56f9tjft2f5rsbufj76bkqrieb7te5fh.apps.googleusercontent.com</string>
+</resources>

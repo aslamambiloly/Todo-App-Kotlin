@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003275499247",
+    "project_id": "todothree-9fd09",
+    "storage_bucket": "todothree-9fd09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003275499247:android:706c6bef98a885d59e0d1a",
+        "android_client_info": {
+          "package_name": "com.example.todothree"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrGUn2pJVDY16hAoCa8UEaQ7rvBXoQQN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
